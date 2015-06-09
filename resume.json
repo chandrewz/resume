@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Andrew Chan",
+    "label": "",
+    "picture": "",
+    "email": "chandrew@utexas.edu",
+    "phone": "(713) 367-7805",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "415 W. 32nd St.",
+      "postalCode": "78705",
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Sterling National Financial Group",
+      "position": "Software Engineer (Contractor)",
+      "website": "",
+      "startDate": "2015-02",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Worked on the design of their brand new website for retirement financial planning services.",
+        "Incorporated and optimized the website with best SEO practices."
+      ]
+    },
+    {
+      "company": "LanternCRM",
+      "position": "Director of Web Development",
+      "website": "",
+      "startDate": "2014-03",
+      "endDate": "2015-02",
+      "summary": "LanternCRM is a startup based in Austin, TX, and is part of Capital Factory's incubator program. LanternCRM crafts business software that strengthens customer relationships and simplifies communication between coworkers.",
+      "highlights": [
+        "Built a RESTful API from scratch using PHP and Laravel.",
+        "Used AngularJS and Bootstrap on LanternCRM's mobile-friendly version.",
+        "Worked with many services and APIs that integrated with Lantern: AWS SQS, AWS SNS, Google Apps, Context.IO, SendGrid, Twilio"
+      ]
+    },
+    {
+      "company": "Home Depot",
+      "position": "Online Software Engineer",
+      "website": "",
+      "startDate": "2012-06",
+      "endDate": "2014-03",
+      "summary": "",
+      "highlights": [
+        "Redesigned pages during a user's checkout process for homedepot.com which receives ~882 MM visitors annually.",
+        "Created an internal application used by managers to manage employees and teams in Node.js."
+      ]
+    },
+    {
+      "company": "Home Depot",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2011-05",
+      "endDate": "2011-08",
+      "summary": "",
+      "highlights": [
+        "Developed an automated testing application for HomeDepot.com using the webdriver, Watij (Web Application Testing in Java). Users could select certain test cases and specify which environments from a frontend UI, which would kick-off the tests."
+      ]
+    },
+    {
+      "company": "HomeAway",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2010-06",
+      "endDate": "2010-08",
+      "summary": "",
+      "highlights": [
+        "Created a ajax-powered dashboard using PHP and Javascript to monitor the status of servers."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Texas",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2008-08",
+      "endDate": "2012-05",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "PHP",
+        "Javascript",
+        "Node.js",
+        "Perl",
+        "C",
+        "Haskell",
+        "Assembly"
+      ]
+    },
+    {
+      "name": "Libraries & Frameworks",
+      "level": "",
+      "keywords": [
+        "Laravel",
+        "jQuery",
+        "AngularJS",
+        "Fat Free Framework",
+        "Wordpress",
+        "Spring",
+        "Struts",
+        "WebSphere Commerce"
+      ]
+    },
+    {
+      "name": "Tools & Other",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Subversion",
+        "MongoDB",
+        "DB2",
+        "AWS"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
